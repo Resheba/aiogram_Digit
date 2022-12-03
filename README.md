@@ -39,7 +39,7 @@ aiogram_Digit - это продукт, разаботанный спецальн
 ## Server
 ##### &emsp;Серверная часть
 Проект состоит из 3-х папок: `/DataBase`, `/KeyBoard`, `/metric_api`, - и двух файлов инициации: `main_client.py` и `/metric_api/json_api.py`. 
-- `main_client.py` - инициирует запуск telegram бота. команда запуска:
+- `main_client.py` - инициирует запуск telegram бота. Команда запуска:
     ```python
     python3 main_client.py
     ```
